@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-03-17T15:15:19.506826",
+    "action_type": "email_send",
+    "actor": "local_agent",
+    "target": "client_demo@example.com",
+    "parameters": {
+      "subject": "Re: Need January Invoice"
+    },
+    "approval_status": "approved",
+    "approved_by": "human",
+    "result": "success"
+  }
+]

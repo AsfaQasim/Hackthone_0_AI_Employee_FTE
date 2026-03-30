@@ -1,0 +1,65 @@
+# Odoo Cloud Deployment - Platinum Tier
+# Use this on the Cloud VM (with HTTPS via nginx + Let's Encrypt)
+
+services:
+  db:
+    image: postgres:15
+    container_name: odoo_gold_db
+    environment:
+      - POSTGRES_USER=odoo
+      - POSTGRES_PASSWORD=odoo_gold_pass
+      - POSTGRES_DB=postgres
+      - POSTGRES_HOST_AUTH_METHOD=md5
+    volumes:
+      - odoo-gold-pgdata:/var/lib/postgresql/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U odoo"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  odoo:
+    image: odoo:17.0
+    container_name: odoo_gold_app
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      - HOST=db
+      - PORT=5432
+      - USER=odoo
+      - PASSWORD=odoo_gold_pass
+    volumes:
+      - odoo-gold-data:/var/lib/odoo
+      - ./config:/etc/odoo
+      - ./addons:/mnt/extra-addons
+    restart: unless-stopped
+
+  nginx:
+    image: nginx:alpine
+    container_name: odoo_gold_nginx
+    depends_on:
+      - odoo
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./certbot/conf:/etc/letsencrypt:ro
+      - ./certbot/www:/var/www/certbot:ro
+    restart: unless-stopped
+
+  certbot:
+    image: certbot/certbot
+    container_name: odoo_gold_certbot
+    volumes:
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/www:/var/www/certbot
+    entrypoint: "/bin/sh -c 'trap exit TERM; while :; do certbot renew; sleep 12h & wait $${!}; done;'"
+
+volumes:
+  odoo-gold-pgdata:
+    driver: local
+  odoo-gold-data:
+    driver: local

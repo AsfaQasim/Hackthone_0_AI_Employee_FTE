@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-03-17T15:54:23.391428",
+    "action": "email_send",
+    "actor": "local_agent",
+    "target": "ali@client.com",
+    "status": "success",
+    "approved_by": "human"
+  },
+  {
+    "timestamp": "2026-03-17T15:54:23.450608",
+    "action": "email_send",
+    "actor": "local_agent",
+    "target": "sara@vendor.com",
+    "status": "success",
+    "approved_by": "human"
+  },
+  {
+    "timestamp": "2026-03-17T15:54:23.451612",
+    "action": "social_post",
+    "actor": "local_agent",
+    "platform": "linkedin",
+    "status": "published",
+    "approved_by": "human"
+  }
+]

@@ -1,0 +1,159 @@
+---
+email_id: "19c76d16867eb8a1"
+sender: "The Airtable Team <team@mail.airtable.com>"
+sender_email: "team@mail.airtable.com"
+sender_name: "The Airtable Team"
+subject: "The Airtable Effect | NYC Buildathon + Introducing Superagent"
+date: "Thu, 19 Feb 2026 16:52:40 +0000"
+priority: "medium"
+labels: ["CATEGORY_PROMOTIONS", "UNREAD", "INBOX"]
+processed_at: "2026-02-21T15:27:40.841547+00:00Z"
+source: "gmail"
+type: "email_task"
+status: "pending"
+---
+
+# Email: The Airtable Effect | NYC Buildathon + Introducing Superagent
+
+**From**: The Airtable Team <team@mail.airtable.com>  
+**Date**: Thu, 19 Feb 2026 16:52:40 +0000  
+**Priority**: 🟡 Medium  
+**Labels**: CATEGORY_PROMOTIONS, UNREAD, INBOX
+
+## Email Content
+
+![](http://links1.airtable.com/q/vCcMnXCSOf0bUPY1kvL66A~~/AARGbBA~/JdI40f3fpnUSABbUxwHhIGKuTvFb_5DN3BgJXNVtN07J4elayCgVpKI72pZ9YmH0Iql9NWKUA019XLakK282Xw~~)
+
+Plus updated to Airtable Academy![](https://links.airtable.com/s/eo/YXE3gevxHapoO3_K7spBYIks0oScD4lAgbKWiHgdjBiFSlarVywQgP0IpjafI9Ap0etkGKK82aTYyVD7q0Xrg9i-753-h2vL1dYN2OQy-q519b0kn08vloWXMBN3jLp3tGp6h23I1eJsNau5zU4eJE6EVm9xihvwCn2qGrbf_64vNT9Ec7q1timRAi5dchGkeD3jEtAmDarXunA/QJcKUcEcs0MkNilgV-gx5CDN4I0daeW5/17)| | | [![](https://library.iterable.com/2294/10475/8c01560b8f234f30bebbf262ad560215-cso-081-header-logo-current-dark-mode-proof2x.png)](https://links.airtable.com/s/c/hKztIyRUmHY5visTyO91XjrZEy7TkPsviWdc0l84jhKvGR4wtjf7UhSNQVs7a17fZXnHDxcpLGWqFfUb0kRcYyalW-nqh_rO3y9Rkk4w8-KmFIyVuQDuV2hF0Qo3b-O3EZMwSeUti4j9SsmlJUPtEyZWeV89YO88ys1aFlYMOUP6Um9_Io9URUqzK_8mq8jnVwceZVkeMnT_WfvWsS7Sh0BrgySeLn7yPkRNkXeVtkBFc7kslWbLXzeO7TXkXFXp5SVCzN9I2L-VdKoYddvzu7ogoI8UJT28h4k3u9_Dt1UM8PiIeP18d5auZcoyerCbKm0QY8MaND9lq2B-LAfyVzq-sYNVcQdDpGvBGuujfNSTuV_VbwJOd34kkzjec_gaCuL_lBQVO371cCwmuo2t1Bu05aC28h_UYeAMg9IQjlJ-pXs9xj7sMpnLDVyIGcK0jl8bCRle1424N3ETj44_ZMHu3yjbVSLIcjrDmYDikfMWxZqSuW2FmRfYQlNjT5QdtxWeNA3q_Ed5XLZ_nSKwsmsTob6KH0DXXrSGV1gSAj2Kd18tOLw7e7Pi/Tjr5ZYsCzbhG6M_K80IzRFeiSav1rSG2/17)  
+---  
+|  
+---  
+| |  [![Airtable Effect](https://library.iterable.com/2294/10475/4f560b7dfa5b40f6b4b62e548b267568-airtableeffect-feb-1440x640.png)](https://links.airtable.com/s/c/HELcaXB8sposWj8kZWU-mr8I-gvJmI84z-20sITnfVSbmBAN4lZzxIKCT00FmsS1jznZ3hJ3aNwvwI9e_TfTLAvE5iXb_8cDFn2vijRL27rEQqkyOKAQfaBToStFd5dgo-qeMf20cP4v-BTYGEuQePNRXwQ2jXAGFlGv7FbSn0M5EW8vrceqWTPtF5Mw7IZ9Nd55R46YsRAJy3C5W8CoLPO05E-rxYaEY15PTzhhZ58Oh4Ghm2uS1Q4nJi00n5i44eBqEUxjL4Yi02nCF7SbI0UHROdVBZs4hUoNajeyYL4b4bYco6CgrcpmsHgsjHwKenEom9MqIPy3dIgv_07DLDVQI_6dpvG2vUB4I_yQdp8agUqm8twewhNJwmSxTfO1zJ1T7q37w4_-1w-w5j86SPU0xhu64d61rxQm941KO8HYPJ7mBISQ2RbWZMD-Kas-4wsXoi7sLYYqaxq5nnFLkKjfGklb_lE76WzJ2hk7rWpPDCH56xHhEzERpq9ptXsSKnxxrmrZ5_MvTaZpWIN6WHn4cE9nyoPa5KPT9KlDOlPVv5_8rLWSxm2rlSR_sn7LjfGfZgApbZMfz3PNOAkC8NcpCmWAOiUce3q6UeP9Leui-J6de8_kswO1K9FEHAmBKC12Nnn0Lh4GSM3z/RXEnh80c0a3xlVkOh-kb0ReXXF_Voxh7/17)  
+---  
+| |  Welcome to the February 2026 edition of **The Airtable Effect** —a monthly roundup of what’s new, what’s inspiring, and what’s possible with Airtable. Whether you're an everyday builder, a certified pro, or just getting started, this newsletter is for you.  
+  
+In each rendition of the newsletter, we’ll bring you:
+
+  * New product and program launches and updates
+  * The latest educational content from Airtable Academy
+  * Highlights from the Airtable Community
+  * Upcoming events you won’t want to miss
+
+  
+---  
+[ Read the full newsletter (+subscribe!) on LinkedIn
+](https://links.airtable.com/s/c/pnYJ2NYn_wTtDtvZgOjEZqwAvJ4TMu3pMcx9Z1KI5Nqsvj-0bykL0pff2f-IPluPTzl6py4VfNjedxDO5g_j4e5gVv19jkzd1-L6YYh_B_d3czeeTcDwLOvua45xD26MZUomSD1hG2HZW9GAgjm2TWZv4xVg5eLPgLjWDxZ40-NUDmt1LGZAsDBk-
+Vbka9VO8T0LEU5fU-JVSkZw7YnCNW3zP1WugIkfHP5AGtpokWCelpVpzteEqXmW-
+LMNPjOnfAq1udDubfPWgZqIxO8Ktn5JsjRbh9vRfT0-BcCNQIRJ9xpI5FWtwAMnhh6RujnhwTJoy4-KQbmsS02C1cDcLvgZyp1zEevR7MCDoKwlW4onUHivf5s95FtjY0dib8Rn9GczE26Ba6Yjd8It6W63_BCNtsl7bhH7VGTf0UReX3whpUmCg8_ZcADO-
+WARtexcWol5w6IFZmjKO8E35wV51grnGsFKDhExbHeXtwV91uNFz7fznZFG65Ypt-
+tzPOkiRDJEH4nZ6TeEc1CqtZDQM0hqQ3D2uGJLiBDnvAB3bXGqtqE9En0wtS2G8mrtnFRUKAM9rVPn_72Wbd9wmhRL3E2pB1mAUIyFdtmL1RCFQiXsGQm6_KA3dx1ppz1VkyMmfcfI7EGi4FsCd-
+TB/RetloLS7XWNe_VmH0oJRdVGSifvqaMso/17)  
+---  
+|  | 
+
+#  **🤖 Calling all builders! Over $100K in prizes on the line for our first
+ever Airtable Buildathon  
+**  
+  
+---  
+[![Airtable](https://library.iterable.com/2294/10475/f937b61ddee941b5bd7a1c124b38cfc8-buildathon_newyork-
+email-1-1.png)](https://links.airtable.com/s/c/2mF4XWA34qp-
+G_53da9zkbURxnP4GG6weWk_YNmwiu9vjSpHlT99L2OUap2nMwNyU6phG4dJNsOsJOIz-
+uYsfL6DQfqTq1tMyn9Kvk959gUPOP1qLJid-7smlyFONpFzvkhI15yd5M_MEsMK48E-JEsSsxGwkjWG9cqDv6oQt0qBKiNBbnemni44vGfelnAzK8TFHjD6Sk3F_0uDuexjXiJqbXpVi9BsYqIoCn4q_zCcoEgJVcwDMyylN9eu8VbBhcWI1-4GC40s58DivNcr_0RBJVkjfet5nBIfqpz-k88hiGgGNv6qJWr_r-3NrG791z1dPjYl4VP960Naevk-6HnYqrznfqivX0czdKzLeL5lMhjk6-Vj7-flhegdQ8A8xHBvY_jRKKSQenHDFzFLIDyIRTOggefYvhSTywyoiiTnpvz-D2DuZCeUcM6YjFT-
+GekDlWoMOwOMLu1EJlezk4vgEgXDo3fDHnu8bhnn_q8wGaMjVn2GNeyx249EohMgZA4-MeGRHZCAuMRS4N_zqSzLLl4w0G5LGMA80hhtBn-7b3XdkY9xJqYoWIgaR0q0UBGhCwVcyGh89m28LMqTVESLri_U1msn80A5Ty8opxXNIiYeeEuR62Hp/h6wss9lGDkMNjdUDPHu09WwIUeXI0uYX/17)  
+---  
+We're looking for the best Airtable builders to compete in the **Airtable
+Buildathon** on March 19 in NYC at HALO 28—a one-day, high-energy competition
+where you'll solve real business problems with AI and compete for $100K+ in
+cash prizes.  
+**This isn’t a typical hackathon.** It’s a live builder competition where
+you’ll work in ready-to-go Airtable environments, take on AI-driven bounty
+challenges, and ship working solutions that solve actual problems.  
+---  
+[Learn more (+ sign up!) here
+→](https://links.airtable.com/s/c/V3PfSXtLtXMphK7-qHYZMNDcHS0_D0zwZ6MlraTHpWDVkH1-zU7DpM1IIJg6T3kNd8tyrzJmfbMSdohMDYdqCSMLwFI6NYq9tyNVws-
+Afin0pG5zB3cHPni1U2a90DYwcUU8CtepIBwjVd8L-kGq2YzHWXBLTpgcVuEvyHQ3rU0H8mJ3fWPEFEVlDVg14LbYxJ3XxtwlMRHpthCzv7fzQF78KGUnxRTP9ocHxsN7E-G1CycP_gzJeQy1CPLkM_hh_HTK-s343svcpN9azeatCaH-g9p0EVgyk2ylrPLfjB2hvPydX7C1Tz8bAAMwyCRXQQA48LiqENPcF1H97-BH3j1gI1s9me6xWiRm8tkTwYDn5ajDmGzeq-
+lgpiDcas1AUCwR6P1YNv-4LOwtfcn5i_pcZVgTyMJFjc0UKYOW9eoBj0IRdK4DYjwYSt5hQAK37LAReOukBSn-
+yYwEzW27YJwomi29ihFqMZfrxWLNXVcU8s_E1L6UIqz78aguOAeqGYDCpmv3ZV2cZlIpEoMF9GSgPsLh8PewiFxivjh-
+vNGmOA9CHSUGheIVNdPVkkxs2iZCN0yemPOW1lyNHGqGPMmnyeI5zPZAAfH17cW-1eBsVKNBZtWCd9qX/ZPO5iPqV9US4bRgKh0ezIMSzuM2sSQCX/17)  
+---  
+|  | |   
+---  
+  
+# **🦸 Introducing: Superagent by Airtable**  
+  
+---  
+[![Airtable](https://library.iterable.com/2294/10475/373d4014e3354b5db87a358f60e10023-feb-
+superagent.png)](https://links.airtable.com/s/c/pjlxkya4D4Qie4jUm9xhOJ6saEhx4oqmqt2duFbWepxYgG2afG5KXazGacObrhO_bTqgyZ-u35kBk9MMUGIJ0lFY8Fm3zl8ba9KE0_SG-
+xTAFgHkmi4KqsB3Bi829jMAIve_0-SO20Jap0JmLT7u_a3ad78GTlbzkP50BCVZ6QVGjXWffZvpST4TXSJNDqIgKQ6PYlJYBfYwdJYw-
+Wtw1fcrPF-3SvMJHhFqDasoYDSkrgG6yVEOlMTy0aXK7oT1FyQQD8J10PGFZo7gj7gQA5daLR5oSXDhBA2L5zv3L50YwUK7leiM6Qaa4EfgR6BSWt9czIJKtxyUmds5SrBvqIbWu0vxStRq_Y-
+CCesfmXNJlQQJAuPj_sLy8fQsdY75WHBCCzskPTmI-ulDkYjbdgh-
+sXkug2-0hwArsLPo6Jb-T1m4X9A9rlCvJDb8wIZzawtrdQCBBNroouTsxdjc5bSipdq0TPpZ0P1_tY9rTkS2GAkP-N
+--22RKa6Iq7zVWdU2VA_JoSDw65DmnK99MV18EUoYCiiDWe-
+VayWwQz45CcrrmzvpQBCDz/XavWnnELVVbfftLX7GGc6S14IyFfCJqa/17)  
+---  
+Last month, Airtable launched Superagent, our first standalone product built
+on multi-agent coordination. With Superagent, you're not asking one AI
+assistant to perform sequential tasks. You're getting a coordinating agent
+that plans the work, deploys specialists who work in parallel, and synthesizes
+their output into a finished, deliverable.  
+---  
+[Try it now
+→](https://links.airtable.com/s/c/hgx7qdGPtnpfF0blTYf2tpBgWswzC18-4cNa7AZGLVLRmWXevAeSxs65IcmwO7yIm09UTqcenL3-ti5wPIeE_c4heeL6F5PMVBJ0njYVw9cuzapuIb5eSJayxh-
+knWSjEwgI55W-a6NiH3Nxn21J2yi9UPVRy8YGExK6zjHtjIZIGeGLru7EaJyuNk1xBD12M_leVuegmB2-2FNTlrgG34O5zux8-5xwzw3Jd6OgabBefBTi8AMshE5zr947x9vUvF77_VAGZHFQO1zJI3AHv_wzuJpT2Fy9ChwTuuRs2SW9BgaFse4kyrc9QZJrmLha4X4oUTSHnmSwq3VB2dGpvn53llx9sGwsyy5cTClqF2KOnvDHVCZXf-
+_h19EndtSd7EhB7ncByJxDqLSvbxZdQW4kkVwrizi8XntnteroIRzX44AwLSr1t4DJID-
+LJ3YnKCqUYStxLgvX6gDi2wpBohVhc67BqK3K5eFB0HqtHxJzJ1DKf8enxUvsaQ4HxT2XaQRtdt0MumlfpUI_bSlswZ5y35tTr5R16WZr4nh1FaJYj2ICpcuEt1ROib67Dp4NMhsktwC6wSMIdKnRDZuu-
+ytr6xwHOD16Z1UFanMk6EN0lGuSNi17s7nZd-7EgdeLkRXGKZS0ZVoMX2YKI_eB5tFPpga8KGRmpWO9tBHp5Rhy38jmxkflUUMqk4OAYlfZ/lrcajuurieUcnEygIBQ8LDKVBi6pOHV3/17)  
+---  
+  
+|  
+---  
+  
+# **🧑‍🏫****Academy Updates**  
+  
+---  
+We’re always evolving **Airtable Academy** to reflect your feedback and
+learning goals, which is why we’re excited to share that Airtable Academy has
+a fresh new look. Here’s what’s new:
+
+  * Updated all of our course and learning path tiles for a cleaner, more intuitive browsing experience (check it out here!)
+  * Updated our**[Course Catalog](https://links.airtable.com/s/c/ixdJSijwV0oSVWwvuIaGNaKVOicX-BZPrPH4sW8G2Oix2ZxIrhCGh3SQarydxEoYQanPBX49nqK0h1JzeDoihZI1p5QRS-8UkpYmH7MqcQrQ6EEPGi3UGg8s7OtGYqwZXP8sJ3N6pyX7xfVzqHwagNf0yo5eLQuw9ck7LMBwa6BkJfftfBEhdZXvc3LkvvdINUeFMxxJsJyCKJ3_gbaudrW0PXyPl3LHAMepGiAxSOQPd07gHfexv6T3gq-3KvARWHKTwaenfY1EJ3rkVZhaDBv6RK7JRfpMmnuT5ePbsVhJ2Dlc7bQOZQm_CRjkw6KZoWcMDa_puzgMRqtg_PfxGPODUKZnO-vhM2jKBoGCOFux9IFWtkDFm4cIRjeLskg5zfjOdUt9DVJKXG8PYI4v0fOeoLdyS_XQGAhSDbdjzaixXtUI8vt2r3yeZPp_TJ5JLP7TMcjyyZgguIdZP1fT66hkvFJEUN1lTGcOjUWnsmuzkYK3r2aa-7492PTz52-RCIM-UyKnEYEvdJG9MFP6MJv5p6nuVyOyL6WkOle3ScG5QpoEfnrIqC4Fq8CGN_0-j7JY98eFscl8C-vB2hquwH9bRzS5Mq9t7PlgVfPyjeQpnR1CDTqgSWoi/j1ZaCyzoBZAP5SiesxrU7m-sB8kkIMIY/17)** to have a “Product Areas” filter, helping you find more relevant content based on the current jobs to be done within Airtable
+  * Reorganized our Builder catalog with new courses joining the [**Builder Essentials**](https://links.airtable.com/s/c/svGBYhnhGQaMJzJ6zsdQjVkalnQ_UH9vG5cKgA-eSo4w_Lom3vStKT9w4g-333jou14ZCDY2jFOB6AXTXit1agbnr9oh5wxBwDesur9sV7YJryoo2tQA_8k4CwnU_X4KhjffjcOnU_MN26VSjhObIlsgKmLidXo3ospdrdTCd0fLqIfNTwbNPKlt_wf8dEJT3DLb66Ej4Z1dmlxF59phcbcElkLuM-9J6x4eIBXHd7sDgTNXCns3h6JvSF3Y5ZrVOz72UvpxO4DjVpisN5OHlPvfX8aLGI5tuD2NenXY7zP9shoT3VNi2VLtsJ1WEEzN-Cm_CLTsu4-Qy9yqfWE_vMnJLLTUZWDXaMDtIq3JElRzx853u5LKY4WfEkdfBhh5eZHa5IvCMKbIuHZmLjbd_AoSstfPt5UxkHTCi9PKOaOSeAt9M4WueXH65ZQaB8YqVkuGfGDObnVWZIwnSqsMd4MX5S5RB12EmIkmBM9cUEAHg1Z_BgTSWNwLU1LO0NyFwXN3O77vZFD9gPKzJzYdH6a_orzPqA8S1i-CK2PmVHB9VJP9LNjJ-z-uB_MxKdbpsgtpzq_WsdmaxISPptlO27knHUpmpNynpJLeevV4J_egcCgVXAJA_yAxNwoTiO6j7lw/JkomWcgn4CjfztbG-LyG-_lSqF_2KH93/17) learning path and updating ‘Builder Advanced’ into a new  [**Formula Essentials**](https://links.airtable.com/s/c/8Qe_-4Rg9z9EVZBEb_xsLPKQeyd3zhhElTuOcPDTHYHjCyHV0IksFagcL0iudWdyMojsLcbmKzce7EjZl_ZQfoitE-ceI9P7xYCf2LPVkVX6LU_Xt983Y3SMar7Qt-9zWGw1ujdR6dgwT1lH-Jthwuzc5WKeyzNelwSB3ybluJ5FWqzYm_-pgk0lUYGV666yVwAi09NzeahHy8ySvB_lciBkrRezthgp0aaMyVNzedvdjZUiRZXWiUr2V33mTcjkqPZxxV3UR0NPzY9uZEAIS2etseKGjxUvC1ZHseZcsVsng59rzkj84frWN972rl3p3f-QlZa6GvewL4CPK4KaxBI2Lav97qxr9pxD16jMsAkr1Xz_Jk93DR5TauSV3x92qO1tYB891rai9vQNrrQipozQuw27M9T0xp4qJzoFds2OK0bL2A6b_ikjm23ELyB8yA6emRpRhzx8vpaLzPGFB2wBKyM96AURINQV_9_8bVNyvA1CH5VcF6C1BITKyHi017SRLpJUDbr8-1pDovI1iptjX51tL16m2D4UEUrPpVufXg6IMPplYV6G7F4lk9I7jtnAMQoVyRdElWVHfY4jUL4E3Bnu3lg_ha4eg3fKs3hE29MXJhkqDqWMVgqNKyk6ZgKj/xsfnpvofEySaBi1zI7xer-e5e42RWfEF/17) learning path.
+
+  
+---  
+[Explore the academy
+→](https://links.airtable.com/s/c/kTijg4JfLJiVdLu2CT8Pi-0VPEksmsVQWWvuU_5obkmgmZw6uPWgJK0MiMUduLbAZDHGi3Bvw6nK5UmLUGsGjPCbOT8CQFA540I5n5nP8RuOPEfSZI6TweF0ET9uLmoJ6STGiLzjkHzp71J3e5om9uZFrPHAlSbqg6LmLLq1TSs8UbjE-
+gud_xHbrTFOl6Fu9KFoWKatUj-
+YJt3z5J5H8MYQ7O15T90Hym0IOKxOBXyADyw4kJbC5GvFh6K_5qmO-
+fJBpNRp9dMUz9vfO94TSQWODjs92E1LKVj4ZRuzPdz236znPAI9orMkwOrIgCZECuJDCRP8LZ0q8LgwwfSX8pnJ55zvf3Onyv2EYaUtK1mEFEf2vs0q6Yd5Jnh6faIl3uB9i6dc6As6lM3GGGUtlbZXgrjm_fGU8zlk2k02NJEtmhG_iFNxCVtn7YntHzyBnUTTQH03Sk0EvHpCYNXVdQwxcXc00lMtJf78zVpA9MOtrxN1PULWfVAFp-1l__jj1um-1b4ts-
+KXwqqDt9LJ51F6AIOpPvyuOiaeo6KgjI3QkLRAxu1zBrisQfNzCR4W6w/I_f-
+piHxmbKMML26WK1jJP92MKEFPhFx/17)  
+---  
+|  
+---  
+| |  |  |  ![](https://library.iterable.com/2294/10475/f6f9f1115adf41ad9212df2b3d3dcaa9-cso-081-footer-logo-current-dark-mode-proof2x.png)  
+---  
+|  [![Linkedin](https://library.iterable.com/2294/10475/9afc0a5c4d65483ea7a8fb3e6f9e92b6-cso-081-footer-social-icons-linkedin-dark-mode-proof-2x.png)](https://links.airtable.com/s/c/rYO__Hw23_QV962uWh_6n38SUcWzWyT0MEa6xUjV-z7_kYscQrwW4ce00EiCrRR5tXi-z-OB8Yol29mtL8yTH7_6K5hak72HT6HUPpcQcn_K3gBPPXGbQBZcxwDIAFsZSYcAKAbzc11sehvfByUDaA9JeuzQDHoXZ7OnKr0Xh4AinaoBNUr_FOYcSAfu2cIWY--a0Ehsy91iOcZBdPCBKiari0dMyC3aWJHLoLonxcuRT1dtOmSXgqY2L4ew45PH_S8QYq1Ds4XpiOKnwa7P5A7xWB4POO3WXPSKWKZHTuOWu4FYITlCEiF0gtcXGzd3Sd1hTCctxDDvRecVH0zDO2cbPfxgwA7Zc6xHr-J5PoP9cpaamcPre4lV8GgXcNcbi9B7Fthq46Fsf9_79C7USvGvF0kF79a7Dd7J-7wWTR4fLF9Wzt4sVuAzFA7tFUPZMSeFIEK8DKYvBQAFx4eha02G95ZAWHFoucSANMRckxOWgLHpJ-K_1tDWaLTt-DuStWqQi0uLBz1r2k5M99IGx0W6nPIzqhKkZEVT1SHKsedwuyFpDaHjkocB7g_mziuzFbNxzsBLgjzVuvtG54Aq6eYmiswb97mFClaEYw/JLULG8Ugusca07-C-93u7d7QFRBBC515/17) |  [![X](https://library.iterable.com/2294/10475/e3a795787fe041a6b47f5a92d5b3de28-cso-081-footer-social-icons-x-dark-mode-proof-2x.png)](https://links.airtable.com/s/c/dCEAF3R_uMlJUjAmPAtGhUHWoqfDzSsO4zrdeDr5MVKEOErpW-ygTxn3oKyCNhT7g5sTOQjLH1ERgTwqAll-lXnGx6zQEH3kJ7CzyCE7ClpvGN67ntBP93WZ7cU_5Y3oX7aDnmUCdyHB-rwe0Mo9pSA40IH8Zc7m_Nz7iactaV0Sob932nPszBuCUrTNv9B0_dgZ64U6BjldB6Fx6xUkM7IM1UtxViLwrQnY_QZtYXRJuYUJMHg3mzZfbsNyvmq5DhN5F-gwY_3Qt_Rp3V7FeBLPRjwfIapvkzwPXf2k0-NsHjMBIjlgNkTrIWZeQ8XGMyeGqJNVxBMkM9PUvQE4DNBCdeBcaZI8mOAMAzr3QB_4XjZzcOpcyBa9zcIBxpyVAWdiyzUEy1goZHGwD7QxDIZXpX93tG2kEynAz-K-fx_O1zno0VlBDmMVd3dTukKclg_DYwRzIJAGyl888iPHVaIz5X9NO-2cvNVJXbSmGFLhgeTfBO4jEKYW10JXfJ89cXDLPiqhBJPmPzci71qpm_UBQT3s6XGHT16pTKNs-noDIg/etBKNh9kT-v752euwk5-DZRVKKITettE/17) |  [![](https://library.iterable.com/2294/10475/415e09fda2a74493b1fcc450db983b87-cso-081-footer-social-icons-instagram-dark-mode-proof-2x.png)](https://links.airtable.com/s/c/nHoetcraF01LTnoYwUGNSlHwMwUFLXyvdx_A7JktmsvsTYo1EiChTu_JUiAFn5s5-6wXfF71EvN_BMcH3HCKKTV5MGO_CXkx50KsLAQF8oev3Ooe1ZsppxYqoLsMU3kDUAzwXKGNVdEc4NHsd_XB-Ocgmo3p-LVLj_T-GXpyNu0ECC3mn0UWlM419_eBPjMBSv-ZNUGf-oHcbpK2SQGmvymLSrr1NPrQii6lqAmweraUTiyc57qzseZJxC0fGFTMql2yOW-yIaUZZcXBVEmIFgeC1hHBrS2ehrzzUNzc-QCqB3HZF7-Ot7b348Gv0e2MVnwYPpBhSNVzr2JUDtuzLNdf4P246YPMUqRnWz4fQCHIxPbFV4asEnnPBPwG2XrKNT-fdzf5ukPt5mzO46PvZlhTaHfLN7IP1uP-xHwCUbLtCqSjTkOITGc0sN0y6pty4-ZVEZu8VtFv0uCX9VywK-zN4tykaSAN9vwgC81T9hXyCh0DjfTsth6uNc0EXJui0oxCq8OTEYEdJUhf1r6H2vtHOmsVEvXCv7vYaztfTUdSXK2-ExWE0-1aNMa7DJegmEK-WQ3K0Zrh5D68B_c/Z7WcN4fINB4fnLvf1Vi-SlFQnjouy4uc/17) |  [![](https://library.iterable.com/2294/10475/f6e0fd034140476aa8124364aeb13657-cso-081-footer-social-icons-facebook-dark-mode-proof-2x.png)](https://links.airtable.com/s/c/HGd5DWNQx079qsebomFyv6IxiD-cfeSHapQcBg37vRCVzfpIBQS7Ogvfq2yYU61dRdqY_xvNjL8UG7OV43c3npiEtflITNWpVnr-IpPGMgSJWTE3jGH1eFiSqhCtkasgFY1jBZY7t441BsRWTo3OPKfKd25hAhqz_NPbfGBlMM5OMAem2ozeQLk4J_8LQPj-7yKn6kjY-x5oRSbGefPUclp4wcqNGg8DRa_F00k7chDvesjCD3IdqXKI1uj47CBSfnG1xFfgHZ7QmoB4WYdxYj_QwXH0tmUx9NQ6k9RKRIBiD8gq736f8VxrIPymxKD_J0GDRaiIaK7pvdjRLN2LsYpfgzCqNXy63dy9kQNIA35VRlrr-Yh2lLE_oHVNN5byJsUsyulKrmECy2rkH7QY98WYmHA1jgdI4MuirRZFYZ58NdQTpZ6MOijadY_uG3xCgEPcuw3TSdS-4C718hfxbptsH9WJUZMGaRNrEedA-snHENniPPvSj-JnMqTGhGFDMRDCgx0aD9dq6zd3q6e2_PSFB7JA2bM6pg6MMnZbe5i5srlzI4WhxGQIG_9BbLHPJktAyiHjqHFPriOSc4ERVWPk/N64BILmKY3CbwS0JYDx0UeQWszPTPvPN/17)  
+---|---|---|---  
+|  Copyright © 2026 Airtable, all rights reserved. 1 Front Street, Floor 28,
+San Francisco, CA 94111  
+---  
+[Help Center](https://links.airtable.com/s/c/gOpk32xafuoU5IDPfHPmcMfFdcybhwqKgl1a3-AAU2RQhS7I64Fa6TdP2r-7SLdYoO6DRFVCR6z8ei9_4bWr6IQAvYCxOEx1hwBBQEhmgknE7LVfM9QMK044nZYypM3wkEc8HmCV8aIK3eQQtFwj4R1VrMsu4yGp1L4tt0Hw0FHEBRsOBSij4xlkmlylVqc1I9yusAcsCdyjBXcEJJGxukWYTfDZzCjgYCq3ciaJUPTtQg3Ao-NadqV82ImuHfao3Xn64m7C6g4ep98Roc8s6s82ALiBQQFWLVwbs0oAZBOY-m3czofijT9JBqyBwXUoZKcmq7jzyRE-IX3M1QlZ2XJeCaNc3vZc8H7NTTZopYhSfuiOo_xPVuhgboWiwU4mbpSQVWKKUM990TIZuP7i6CSLws7IGkfp8Y6M2irU3cKPTKRzF_Ov-bC9zuWD96LJbBDAae697hT3t2SW5fgx_C-INXU25n0LcMgxQN-Gtsr3fKQ4ZlIj6VpCnOlxtWHmHjjfexsXGgctOn4JJMRg1L1TI9EYd-nZMtqYdcysPWPl46HcLo0fL0APmSsz99pW/1afcfi7iuFelwfK4k3N894WIL1jFGI2q/17) | [Resources](https://links.airtable.com/s/c/yrHb8cqhq8_TMRllyWZw7FigYwb85L9bmPb5nJ8Gan7eFE2oCI6knFSNYAg4IQTF5IXhKJenHKh5bQRyK-cMIVgBARUHlwBHRlcbXcCXbVLv8RuBC-14LfnITV9XO6gVmdSchqqUEhZdZp1YPfMEb1z_HkdaJC9UKrWxw-QikhWDvQ6DUdkW_3nZhYF6q8QAMQPHurBwF6e50KEnnEA9zpeJ_fSE_kwX4tg6lraeX6qo6eduoJQYANsDAo5WaBxAJzQ9wbye4EWjFh-ViI16hZL1AJlaj1Jw5h0QSrjytukWc7oWmkfXsFKsvLYMjFXVkY4Vi6V4nsnUgTWdbKpppHnECWPiNDXiW4Kd9Ns2aLOnqeg50QgmDOeSPzm7t8TveDaaPUj-C5k_L8pdzSYUbiNV4TqpUDsQSQIfBqXh2rqn79GscvZ9yzaZBNpHLtX8oxJoaM47sdHTQZIJWfLGcpoutihuZuSQV7jCg0qrTcZ1Kevfg4pB3QT7je99mhCWPNnlWlf00uw_CLr4LCezsSknf0tJlTSjoLSYma4OzXrr49gXh2nkX8o3ilkYs1T6LbyGOQiJ_CY2BBEOYv5WkTIM/IXdee_XZW9kR-eLEilR3GAUcqBKY-R-T/17) | [Privacy Policy](https://links.airtable.com/s/c/hFj_7ja_daB4xAZ9USukr46xcB5wbh3Jii8xnaENynsYWfbvy4jiOZHj-7rinqmnSeoMdgU94XkLrpH-bOW2rpnlrRA_duljxsYRf_vhDTTLahqQKIhyA8cxZHcw4y-RfOiB-XvpWcaLAOB76LtLuuzObQhFT9jEyfsnAO7KBXnrlY-79SX7NnbPsKt9rcZ0rVKpTYsfyMk-pGkQxZJSGS-JoS0E2mdnGYcgs-IXEGvyiAJwUlrxk81Ow7eOvSOwqoC2AxseOT6i58AC034cEuu8qOG2KjT5CStfpbRLfisP7cuiZ5ZRhVyb31duhIepUlZCkNgzArK0a6maceeB7AgkIVoju0qDnKE55EUOmT3rbtchxxXMyQQf5mljdfRChVnztQ5e79l5RD-ip_b6sfx6OQwBEpJ64z-KyeMIs8nBS3VtfI4udOeAyHfsORbZZMIP58MUq4ewBExuUFDu56OTv0fJjROFUPP429knkXKC2JFzwguFDJiFTILivJrUdc9XxYfDmaf2Be_9gewXsvh8C-MHQRPtZrGixnTcM4ibrg8ezqQT3D3pDF8zhZ9zqwzitrSik8y2Yrpunz_carnL6Y0M6Ieb/tEVBMdbB6RN-3PCUjXS10wF3aSSRM-Ca/17) [Unsubscribe from all emails](https://links.airtable.com/s/c/QFHekwjPFFrdc6uwLIoto1D-a6eNdSZ5nfbA2xZP8djVc6ar23_uOOY977u7sw1nw07xmD7kjriDxj-QLjQnp9Q-mVgKXUnGQZq_q_ndBxPrmk4xd9FoxrrtD9RcuW-5_CKpgPcMZQOzAFfJ7z2bvWWVTjL4HrAyWJYQSULAgqH_wmqGEycnbqOqhuN6kHQWX1pRVywlNUYUXPAW3n9i4VivnufX2QquWpilptBBiHm8_cAWHs2LuJV9Hkb8PFEdyh3TeUhXzN2BzuooYz5vZ6aUUyhLgpGBLdhHJUFvUdf-sCkkxLBW3KuzPvUjEJt-cs15U3iuJsljgmybyuVuSkGkLzx7x1ShXquM8T7WuY9iyY04Z6a1Dx1oVyAs-yq_5KqfAFvZDVWbzYN0GvP56ImdaNlfJ8TMqO88f14rCGXrJ_hjatVoUQEpPLt6BbCbtpvFl9toDh0hTDyTrvZ4DiQE6bGkEu6bBhw3-jTWDMQWaXbjrCSKRozDs93j1O_AnOCww2-fyRmJ6jI2V9SNfCIgu1FRIJxi4IGyWBn6CeCXFRR8GWAuvFo_AzC1Dr6Q1CLhBBRkDR0OmcAa-yGIuDnmXcX2oe1HqSN4RhMfhwDRSTRvLjMP1M3mryHkE_Bb/c9TiUdT1oEVxM75Z6SBpFK3luxuQ41eD/17) | [Unsubscribe from marketing emails](https://links.airtable.com/s/eh/4OMxDYguK43JBOtJWR0tqC5fyNtJk68AAfVizuEYD_xX5dgrWZvsk0Aa7Lx5MfkvydKYDrGUBl0WqCdSzAger5Ia6jk-16iJkcnIBa2Jo9J0wILIoB5T1y0t0uulWbsMQAG2ldpyj2tSiiXpAVhQvYyYtuNuyzLwSDn6-V24QNAasV44htc8yBSLp_kekV55al3ul6wA0M1CyboVnaYSPAGxOR5zlovx5k56ROY8s6ZB7q8Q9Js4YoGBwlskLU6ACw7WWY8_P55n_i5PbEhWkYaKZLzby-8N5VdlGJhsL8UyPfbGgsvFHHIENAJ3sMil3jEkS_koD69bbtwX2RfhJMeDkPozQA2tcQaFo9wI5FRIEqNbYtioeErTodDnC4kwD8QlydK5EIWfXEeVzLOfeLF2ZDAGBFn5cG54dvBiG7AdWutSDS0lLD_XegkEjl2PDtOaxbzLA0cYiq_iiJGuBiENvY7sDYwpL_ixQ7I6pOD65KCZ9kMEJOj_ftf30pCx-0pJPMVVZ7SH1OmmTBfcpTnLesYfW5tZ5072vujLJf1At_Rja1jbO5rZIL5mQg/maeVkaPybPQMDdrhcnOzn8H8_UaVv72T/17)  
+---  
+  
+![](http://links1.airtable.com/q/SkOlhesSfLkP7vOI56qKTg~~/AARGbBA~/XSkT12noAy9ks8UUBX8wrnLpEIHxT3pmGTxpzZRVd9Wj1RzgFBgI6m5UvYMZYVORFPjoxgklBGoTPQFwghZHyw~~)
+
+---
+
+## Action Items
+
+- [ ] Review and respond to this email
+
+## Links
+
+- [View in Gmail](https://mail.google.com/mail/u/0/#inbox/19c76d16867eb8a1)
+
+---
+
+*Processed by Gmail Watcher Skill v1.0.0*

@@ -1,0 +1,65 @@
+# Secrets and credentials
+.env
+.env.*
+config/gmail-credentials.json
+config/gmail-token.json
+*.pem
+*.key
+
+# Processed email index
+.index/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+Logs/**/*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Obsidian
+.obsidian/
+
+# Testing
+.pytest_cache/
+.hypothesis/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+# WhatsApp session (LOCAL ONLY - never sync to cloud)
+config/whatsapp_session/
+.whatsapp_session/
+.facebook_session/
+.linkedin_session/
+
+# Platinum Tier: Secrets NEVER sync
+platinum-cloud/scripts/.env.cloud
+gmail_token.json
+*_token.json
+*_credentials.json
+*_session/
+
+# Keep .gitkeep files
+!**/.gitkeep
